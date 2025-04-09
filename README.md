@@ -20,8 +20,8 @@ https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-windows?pivots=msi
 		
     - Secrets  
 	    Generate/import  
-		  **Name:** mes  
-		  **Secret value:** abril  
+		  **Name:** signo  
+		  **Secret value:** virgo  
 
 Vault URI: https://cotickeyvault.vault.azure.net/  
 
